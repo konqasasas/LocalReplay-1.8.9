@@ -18,6 +18,8 @@ Minecraft Java Edition 1.8.9向けのクライアント側リプレイMODです�
 
 ## 導入
 
+ダウンロードは[こちら](https://www.curseforge.com/minecraft/mc-mods/localreplay)か画面右のReleasesからお願いします。
+
 1. Minecraft Forge 1.8.9を導入します。
 2. `localreplay-1.8.9-0.1.0.jar`をMinecraftの`mods`フォルダーへ入れます。
 3. ワールドに入り、`G`キーでLocal Replayを開きます。
@@ -60,6 +62,10 @@ Local Replayは、実プレイヤーを録画地点へ移動させません。�
 - [MPK Mod 2](docs/MPKMOD2.md)
 
 CYV／MPK系HUDは通常時と同様にF3表示中は非表示です。
+
+## トラブルシューティング
+
+リプレイの表示後に地形が透明になった場合は、`F3` + `A`でチャンクを再読み込みしてください。
 
 ## リプレイファイル
 
