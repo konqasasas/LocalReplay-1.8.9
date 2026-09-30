@@ -1,0 +1,29 @@
+# Gradle and build output
+.gradle/
+build/
+out/
+bin/
+
+# Minecraft development runtime
+run/
+*.lreplay
+
+# IDE files
+.idea/
+.vscode/
+.settings/
+.classpath
+.project
+*.iml
+*.ipr
+*.iws
+*.launch
+
+# Local environment
+java-home.local.bat
+
+# OS and crash files
+.DS_Store
+Thumbs.db
+hs_err_pid*
+*.log

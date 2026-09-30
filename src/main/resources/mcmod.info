@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "localreplay",
+    "name": "Local Replay",
+    "description": "Client-side tick-based local movement replay and analysis tool.",
+    "version": "${version}",
+    "mcversion": "1.8.9",
+    "authorList": ["konqasasas"],
+    "credits": "",
+    "url": "",
+    "updateUrl": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
